@@ -7,7 +7,7 @@ Olá! Eu sou o **Luiz Miguel**. Como vai? Sou um programador e desenvolvedor ado
 ## Alguns Fatos Sobre Mim
 
 - Coordeno uma plataforma escolar regional chamado **Projeto Educaboraí**.
-- Coordeno uma **futura** web-rádio chamada **Web Rádio Saturno**.
+- Coordeno uma web rádio chamada **Web Rádio Saturno**.
 - **Faço** um sistema operacional próprio chamado **Luish** *(com a ajuda da IA)*.
 - Faço hacks ROM do jogo **Mario Kart DS**.
 - Coordeno a família de enciclopédia de conhecimentos gerais chamada **Libris**.
