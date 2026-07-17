@@ -1,6 +1,6 @@
 # ★ Bem-vindo(a) ao meu perfil!
 
-Olá! Eu sou o **Luiz Miguel**. Como vai? Sou um programador e desenvolvedor adolescente, focado em criar soluções eficientes e aprender algo novo todos os dias. **Bem-vindo(a) ao meu espaço no GitHub**!
+Olá! Eu sou o **Luiz Miguel**. Como vai? Sou um programador e desenvolvedor de 12 anos focado em criar soluções eficientes e aprender algo novo todos os dias. **Bem-vindo(a) ao meu espaço no GitHub**!
 
 ---
 
