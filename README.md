@@ -11,6 +11,7 @@ Olá! Eu sou o **Luiz Miguel**. Como vai? Sou um programador e desenvolvedor de 
 - **Faço** um sistema operacional próprio chamado **Luish** *(com a ajuda da IA)*.
 - Faço hacks ROM do jogo **Mario Kart DS**.
 - Coordeno a família de enciclopédia de conhecimentos gerais chamada **Libris**.
+- Coordeno um projeto de sistema operacional para dentro do **Nintendo DS** (sem sombra de dúvidas, *meu console favorito* ☆).
 
 ---
 
