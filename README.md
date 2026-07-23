@@ -12,7 +12,6 @@ Olá! Eu sou o **Luiz Miguel**. Como vai? Sou um programador e desenvolvedor de 
 - Faço hacks ROM do jogo **Mario Kart DS**.
 - Coordeno a família de enciclopédia de conhecimentos gerais chamada **Libris**.
 - Coordeno um projeto de sistema operacional para dentro do **Nintendo DS** (sem sombra de dúvidas, *meu console favorito* ☆).
-- Faço uma hack ROM de Mario Party DS chamada **O Incrível Tabuleiro do Conhecimento do Kadu** (atualmente *em construção*).
 
 ---
 
