@@ -15,7 +15,7 @@ Olá! Eu sou o **Luiz Miguel**. Como vai? Sou um programador e desenvolvedor de 
 
 ## O Que Faço Atualmente?
 
-- Estou desenvolvendo o jogo **As Aventuras de Kadu** (PC), uma aventura de plataforma 2.5D feita puramente em C/C++ compilada nativamente para executável (`.exe`).
+- Estou desenvolvendo o jogo **As Aventuras de Kadu** (PC), uma aventura de plataforma 2D feita puramente em C/C++ compilada nativamente para executável (`.exe`).
 
 ---
 
