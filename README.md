@@ -13,6 +13,10 @@ Olá! Eu sou o **Luiz Miguel**. Como vai? Sou um programador e desenvolvedor de 
 - Coordeno a família de enciclopédia de conhecimentos gerais chamada **Libris**.
 - Coordeno um projeto de sistema operacional para dentro do **Nintendo DS** (sem sombra de dúvidas, *meu console favorito* ☆).
 
+## O Que Faço Atualmente?
+
+- Estou desenvolvendo o jogo **As Aventuras de Kadu** (PC), uma aventura de plataforma 2.5D feita puramente em C/C++ compilada nativamente para executável (`.exe`).
+
 ---
 
 Obrigado por visitar meu perfil! ☆
