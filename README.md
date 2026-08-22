@@ -1,21 +1,16 @@
 # ★ Bem-vindo(a) ao meu perfil!
 
-Olá! Eu sou o **Luiz Miguel**. Como vai? Sou um programador e desenvolvedor de 12 anos focado em criar soluções eficientes e aprender algo novo todos os dias. **Bem-vindo(a) ao meu espaço no GitHub**!
+Olá! Eu sou o **Luiz Miguel**. Como vai? Sou um programador e desenvolvedor de 12 anos focado em aprender e criar algum projeto novo todos os dias. **Bem-vindo(a) ao meu espaço no GitHub**! **:b**
 
 ---
 
 ## Alguns Fatos Sobre Mim
 
-- Coordeno uma plataforma escolar regional chamado **Projeto Educaboraí**.
-- Coordeno uma web rádio chamada **Web Rádio Saturno**.
-- **Faço** um sistema operacional próprio chamado **Luish** *(com a ajuda da IA)*.
-- Faço hacks ROM do jogo **Mario Kart DS**.
-- Coordeno a família de enciclopédia de conhecimentos gerais chamada **Libris**.
-- Coordeno um projeto de sistema operacional para dentro do **Nintendo DS** (sem sombra de dúvidas, *meu console favorito* ☆).
-
-## O Que Faço Atualmente?
-
-- Estou desenvolvendo o jogo **As Aventuras de Kadu** (PC), uma aventura de plataforma 2D feita puramente em C/C++ compilada nativamente para executável (`.exe`).
+- Criei uma web plataforma de acervos dedicado a minha cidade chamada **[Acervo Pedra Bonita](https://acervopedrabonita.rf.gd)**;
+- Criei uma web rádio chamada **[Web Rádio Contemporânea](https://webradiocontemporanea.rf.gd)**;
+- Faço ROM hacks do jogo **Mario Kart DS**;
+- Desenvolvi um jogo chamado **[As Aventuras de Kadu](https://equipelinear.github.io/kadu/)**;
+- 
 
 ---
 
