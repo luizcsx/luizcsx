@@ -10,7 +10,6 @@ Olá! Eu sou o **Luiz Miguel**. Como vai? Sou um programador e desenvolvedor de 
 - Criei uma web rádio chamada **[Web Rádio Contemporânea](https://webradiocontemporanea.rf.gd)**;
 - Faço ROM hacks do jogo **Mario Kart DS**;
 - Desenvolvi um jogo chamado **[As Aventuras de Kadu](https://equipelinear.github.io/kadu/)**;
-- 
 
 ---
 
